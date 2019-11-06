@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C8F21033-34DA-BF65-95FC-7E7C9A88C1B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/script/click.cs">
+    <Files>
+      <File FileName="Assets/Scenes/script/click.cs" Line="31" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
